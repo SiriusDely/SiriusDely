@@ -9,5 +9,5 @@
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=siriusdely&show_icons=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriusdely&layout=compact&hide=python,php,html,css,c%23" />
+<img src="https://github-readme-stats.vercel.app/api?username=siriusdely&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriusdely&layout=compact&hide=python,php,html,css,c%23" />
